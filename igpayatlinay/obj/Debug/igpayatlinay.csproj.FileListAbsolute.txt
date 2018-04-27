@@ -1,0 +1,7 @@
+C:\Users\Tim\source\repos\igpayatlinay\igpayatlinay\bin\Debug\igpayatlinay.exe.config
+C:\Users\Tim\source\repos\igpayatlinay\igpayatlinay\bin\Debug\igpayatlinay.exe
+C:\Users\Tim\source\repos\igpayatlinay\igpayatlinay\bin\Debug\igpayatlinay.pdb
+C:\Users\Tim\source\repos\igpayatlinay\igpayatlinay\obj\Debug\igpayatlinay.csprojResolveAssemblyReference.cache
+C:\Users\Tim\source\repos\igpayatlinay\igpayatlinay\obj\Debug\igpayatlinay.csproj.CoreCompileInputs.cache
+C:\Users\Tim\source\repos\igpayatlinay\igpayatlinay\obj\Debug\igpayatlinay.exe
+C:\Users\Tim\source\repos\igpayatlinay\igpayatlinay\obj\Debug\igpayatlinay.pdb
